@@ -1,0 +1,12 @@
+--select * from tblMember
+--select MemberName,MemberSurname from tblMember
+--Select * from tblMember where MemberName<16
+--select * from tblMember where MemberAge = 15 or memberage =16
+--select * from tblMember where MemberSurname = 'Demir' or MemberSurname = 'Yüce'
+--select * from tblMember where MemberSurname='Yüce' and MemberAge=15
+--select COUNT(*) from tblMember where MemberAge 
+--insert into tblMember (MemberName,MemberSurname) values ('Zeynep','Engin') 
+--insert into tblMember (MemberName,MemberSurname,MemberUserName) values ('Gülsün','Demir','gulsun34')
+--select * from tblMember
+--update tblMember set MemberAge=15 where MemberID=12
+
